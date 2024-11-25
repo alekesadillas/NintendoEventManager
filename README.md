@@ -1,2 +1,2 @@
 # NintendoEventManager
-School proyect practicing with tailwind css
+https://alekesadillas.github.io/NintendoEventManager/
